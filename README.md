@@ -1,6 +1,6 @@
 # project-1a
 
-Type the following code into the file, but with your name and the current date:
+Type the following code into the file, but with **your name** and the **current date**:
 ```
 # Author: Tim Alcon
 # Date: 1/1/1970
