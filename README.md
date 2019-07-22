@@ -1,7 +1,5 @@
 # project-1a
 
-Open PyCharm and follow the instructions on the Tools You Will Need page in Canvas to clone the repository at the link given in the specifications, create a project based on that source, and create a new file in that project named "animal.py".
-
 Type the following code into the file, but with your name and the current date:
 ```
 # Author: Tim Alcon
